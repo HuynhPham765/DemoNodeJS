@@ -1,0 +1,19 @@
+{
+  "name": "demo-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/HuynhPham765/DemoNodeJS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HuynhPham765/DemoNodeJS/issues"
+  },
+  "homepage": "https://github.com/HuynhPham765/DemoNodeJS#readme"
+}
