@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/HuynhPham765/DemoNodeJS/issues"
   },
-  "homepage": "https://github.com/HuynhPham765/DemoNodeJS#readme"
+  "homepage": "https://github.com/HuynhPham765/DemoNodeJS#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
